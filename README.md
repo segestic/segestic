@@ -57,6 +57,14 @@
 **⛰ Looking forward to learn:** 
 
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://www.tensorflow.org/" target="_blank"><img height="50" src="https://seeklogo.com/images/T/tensorflow-logo-AE5100E55E-seeklogo.com.png"></a></code>
+
+
 <code><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/amazon-artificial-intelligence.svg"></a></code>
 <code><a href="https://docs.flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
+
+
+## Few Projects
+* 🎓 [BrainTumorPrediction](https://braintumorprediction.streamlit.app) - Brain Tumor Prediction App
+* 🌐 [Cartoonify](https://cartoonify.streamlit.app) - Convert your pictures to cartoons.
+* 🎧 [Covid Predition](https://covidpredictionapi.streamlit.app) - Covid 19 Prediction using  CNN Algorithm.
+* 📬 [BlockChain Health App](https://segestic-healthblock.hf.space) - Save Health and Vaccination Records on Tezos Blockchian.

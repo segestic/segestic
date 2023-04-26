@@ -20,11 +20,10 @@
 <p align="left"> </p>
   
 **👨🏻‍💻 Currently working on:** 
-
+<code><a href="https://www.qt.io/" target="_blank"><img height="50" src="https://seeklogo.com/images/Q/qt-small-logo-E980A7F727-seeklogo.com.png"></a></code>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.djangoproject.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></a></code>
 <code><a href="https://fastapi.tiangolo.com/" target="_blank"><img height="50" src="https://repository-images.githubusercontent.com/260928305/92388600-8d1c-11ea-9993-a726466b5099"></a></code>
-<code><a href="https://www.qt.io/" target="_blank"><img height="50" src="https://seeklogo.com/images/Q/qt-small-logo-E980A7F727-seeklogo.com.png"></a></code>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a></code>
 <code><a href="https://nodejs.org/en/" target="_blank"><img height="50" src="https://seeklogo.com/images/N/nodejs-logo-065257DE24-seeklogo.com.png"></a></code>
 

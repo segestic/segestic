@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Olusegun Oladele</h1>
-<h3 align="center">Machine Learning Enthusiast and Computer Scientist, focussing on improving healthcare delivery via deep learning, computer vision CNN Algorithms.</h3>
+<h3 align="center">Embedded Software Engineer and Machine Learning Enthusiast with experience in multiple business domains (Automotive, Education, Health) using the latest technologies, tools, and platforms.</h3>
 
 - 🔭 I’m currently working on **Digital Instrument Cluster Infotainment System and Cross-compilation**
 

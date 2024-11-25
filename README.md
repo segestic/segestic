@@ -62,9 +62,64 @@
 <code><a href="https://en.wikipedia.org/wiki/Artificial_intelligence" target="_blank"><img height="50" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/amazon-artificial-intelligence.svg"></a></code>
 <code><a href="https://docs.flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 
+## Publications
+
+### Articles
+
+```bibtex
+@article{odewole2024web,
+  title={Web-based brain tumor classification app using convolutional neural network},
+  author={Odewole, Olusegun O and Al-Turjman, Fadi},
+  journal={Artificial Intelligence of Things (AIoT): Current and Future Trends},
+  pages={37},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{odewole2023auwalu,
+  title={Auwalu Saleh Mubarak, and Zubaida Sa’id Ameen},
+  author={Odewole, Olusegun and Al-Turjman, Fadi},
+  journal={Artificial Intelligence of Health-Enabled Spaces},
+  volume={145},
+  number={147},
+  pages={145},
+  year={2023},
+  publisher={CRC Press}
+}
+```
+
+### Book Chapters
+
+```bibtex
+@incollection{odewole2023development,
+  title={Development of a COVID-19 Tracking System},
+  author={Odewole, Olusegun and Al-Turjman, Fadi and Mubarak, Auwalu Saleh and Ameen, Zubaida Sa'id},
+  booktitle={Artificial Intelligence of Health-Enabled Spaces},
+  pages={145--158},
+  year={2023},
+  publisher={CRC Press}
+}
+```
 
 ## Few Projects
 * 🎓 [BrainTumorPrediction](https://braintumorprediction.streamlit.app) - Brain Tumor Prediction App
 * 🌐 [Cartoonify](https://cartoonify.streamlit.app) - Convert your pictures to cartoons.
 * 🎧 [Covid Predition](https://covidpredictionapi.streamlit.app) - Covid 19 Prediction using  CNN Algorithm.
 * 📬 [BlockChain Health App](https://segestic-healthblock.hf.space) - Save Health and Vaccination Records on Tezos Blockchian.
+
+### Qt C++ Embedded
+* https://github.com/segestic/Digital-cluster <br /> 
+* https://github.com/segestic/HomeAutomation <br />
+* https://github.com/segestic/Calculator-c  <br />
+  
+
+### Web projects
+* https://github.com/segestic/dormitory < br />
+* https://github.com/segestic/vcf-contacts <br />
+
+
+### Data Science/Machine Learning
+* https://github.com/segestic/COVIDFastApi-withStreamLit  <br />
+* https://github.com/segestic/6-ML-classification-Algorithms  <br />
+* https://github.com/segestic/ML-snips <br />
+

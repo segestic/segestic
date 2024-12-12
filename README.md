@@ -102,9 +102,9 @@
 ```
 
 ## Few Projects
-* 🎓 [BrainTumorPrediction](https://braintumorprediction.streamlit.app) - Brain Tumor Prediction App
+* 🎓 [BrainTumorPrediction](https://huggingface.co/spaces/segestic/BrainTum) - Brain Tumor Prediction App
 * 🌐 [Cartoonify](https://cartoonify.streamlit.app) - Convert your pictures to cartoons.
-* 🎧 [Covid Predition](https://covidpredictionapi.streamlit.app) - Covid 19 Prediction using  CNN Algorithm.
+* 🎧 [Covid Predition](https://github.com/segestic/COVIDFastApi-withStreamLit) - Covid 19 Prediction using  CNN Algorithm.
 * 📬 [BlockChain Health App](https://segestic-healthblock.hf.space) - Save Health and Vaccination Records on Tezos Blockchian.
 
 ### Qt C++ Embedded
@@ -112,6 +112,12 @@
 * https://github.com/segestic/HomeAutomation <br />
 * https://github.com/segestic/Calculator-c  <br />
   
+### Transformers and Large Language Model Projects
+* https://huggingface.co/segestic/phi2_medical_seg  <br /> 
+* https://huggingface.co/segestic/Tinystories-gpt-0.1-3m <br /> 
+* https://huggingface.co/segestic/Tinystories-0.1-9m <br />
+* https://huggingface.co/segestic/Tinystories-0.1-9m <br />
+* 
 
 ### Web projects
 * https://github.com/segestic/dormitory < br />

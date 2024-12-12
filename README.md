@@ -77,7 +77,7 @@
 }
 
 @article{odewole2023auwalu,
-  title={Auwalu Saleh Mubarak, and Zubaida Sa’id Ameen},
+  title={Development of a COVID-19 Tracking System},
   author={Odewole, Olusegun and Al-Turjman, Fadi},
   journal={Artificial Intelligence of Health-Enabled Spaces},
   volume={145},
